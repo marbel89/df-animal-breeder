@@ -17,8 +17,8 @@
    - Batch operations: Tag, Geld, Cage, Butcher
    - CSV export
 
-     ## Future
-     - From a gameplay point of view, the exact attributes stats should probably be obfuscated and only ingame data should be used (i.e. "strong", "good kinesthetic sense" and so on). For testing I had to know the exact stats.
+## Future
+   - From a gameplay point of view, the exact attributes stats should probably be obfuscated and only ingame data should be used (i.e. "strong", "good kinesthetic sense" and so on). For testing I had to know the exact stats.
      - Well, the feature of attribute hereditary needs to be patched in, to begin with...
 
 ## Known bugs:
