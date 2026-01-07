@@ -4,7 +4,7 @@
    
    ## Installation
    1. Copy `animal-breeder.lua` to `<DF>/hack/scripts/`
-   2. In-game, run: `animal-breeder`
+   2. In-game, run: `animal-breeder` via DFHack
    3. Optional: Add to `dfhack-config/init/onMapLoad.init`:
 ```
       keybinding add Alt-B animal-breeder
