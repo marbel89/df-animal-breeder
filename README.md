@@ -124,7 +124,9 @@ ID,Race,Sex,Adult,Gelded,Caged,Slaughter,Name,Tag,Mother_ID,Father_ID,STR,AGI,TG
 - **Zone unassignment**: Caging animals doesn't automatically unassign them from pastures. Unassign manually first.
 - **Father tracking**: Some species (rabbits) don't track paternity. Father_ID will be -1.
 -  Well, the feature of attribute inheritance needs to be patched in, to begin with...
--  ** I have a widescreen, so it might look terrible for smaller screens. Todo: Resizable window **
+-  **I have a widescreen, so it might look terrible for smaller screens. Todo: Resizable window**
+
+<img width="414" height="582" alt="grafik" src="https://github.com/user-attachments/assets/61cfb079-1dba-4049-9670-9b32eb9d1e9f" />
 
 ## Future features
 
