@@ -1,6 +1,7 @@
 # gui/animal-breeder
 
 A DFHack GUI for viewing animal attributes, body size modifiers, and managing selective breeding programs in Dwarf Fortress.
+<img width="2382" height="949" alt="grafik" src="https://github.com/user-attachments/assets/81692411-3176-4d5d-8180-7962241d9f7a" />
 
 ![DFHack](https://img.shields.io/badge/DFHack-50.xx+-green)
 ![Dwarf Fortress](https://img.shields.io/badge/Dwarf%20Fortress-50.08+-blue)
@@ -99,6 +100,8 @@ gui/animal-breeder --detailed
 | `T` | Set tag |
 | `V` | Toggle vague/detailed mode |
 | `Esc` | Close |
+
+<img width="2382" height="949" alt="grafik" src="https://github.com/user-attachments/assets/5f0eb2d3-9aa7-4217-ba2d-f802debd06a4" />
 
 ## CSV Export Format
 
