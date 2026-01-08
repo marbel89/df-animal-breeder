@@ -10,7 +10,9 @@ A DFHack GUI for viewing animal attributes, body size modifiers, and managing se
 
 The vanilla DF animal screen doesn't expose attributes or body size modifiers, making selective breeding guesswork. This tool shows all hidden stats, tracks generations, and exports data for analysis.
 
-**Key discovery from using this tool:** Attributes (STR, AGI, etc.) don't inherit, but body size modifiers (HEIGHT, BROADNESS, LENGTH) do inherit weakly (r ≈ 0.2-0.4). See [Research Findings](#research-findings) below.
+**Key discovery from using this tool:** Attributes (STR, AGI, etc.) don't inherit, but body size modifiers (HEIGHT, BROADNESS, LENGTH) do inherit weakly.
+
+Also enables batch caging of animals for more animal friendly measures.
 
 ## Features
 
