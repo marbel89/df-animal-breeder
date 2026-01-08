@@ -1,6 +1,7 @@
 # gui/animal-breeder
 
 A DFHack GUI for viewing animal attributes, body size modifiers, and managing selective breeding programs in Dwarf Fortress.
+
 <img width="2382" height="949" alt="grafik" src="https://github.com/user-attachments/assets/81692411-3176-4d5d-8180-7962241d9f7a" />
 
 ![DFHack](https://img.shields.io/badge/DFHack-50.xx+-green)
@@ -37,6 +38,9 @@ Experiments done with this tool: https://www.reddit.com/r/dwarffortress/comments
 --   Bad        (≤-400)
 ---  Terrible   (≤-750)
 ```
+
+<img width="2376" height="943" alt="grafik" src="https://github.com/user-attachments/assets/3f2fab8b-8b25-4bd2-96e4-35c4a063279b" />
+
 
 **Detailed Mode** - Full numeric values for all stats, if you want to peep behind the curtains.
 
@@ -122,6 +126,7 @@ ID,Race,Sex,Adult,Gelded,Caged,Slaughter,Name,Tag,Mother_ID,Father_ID,STR,AGI,TG
 - **Zone unassignment**: Caging animals doesn't automatically unassign them from pastures. Unassign manually first.
 - **Father tracking**: Some species (rabbits) don't track paternity. Father_ID will be -1.
 -  Well, the feature of attribute inheritance needs to be patched in, to begin with...
+-  ** I have a widescreen, so it might look terrible for smaller screens. Todo: Resizable window **
 
 ## Future features
 
