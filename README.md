@@ -20,7 +20,7 @@ Experiments done with this tool: https://www.reddit.com/r/dwarffortress/comments
 
 ### Animal Stats Display
 - **10 Attributes**: Strength, Agility, Toughness, Endurance, Recuperation, Disease Resistance, Willpower, Focus, Spatial Sense, Kinesthetic Sense
-- **Body Size Modifiers**: Height, Broadness, Length (as % of species baseline)
+- **Body Size Modifiers**: Height, Broadness, Length (as % of species baseline). Currently, DF does not communicate animal size at all.
 - **Lineage**: Mother ID, Father ID (when tracked by DF)
 - **Generation**: Automatically calculated (F0, F1, F2, etc.)
 
@@ -44,7 +44,7 @@ Experiments done with this tool: https://www.reddit.com/r/dwarffortress/comments
 - Filter by name or tag
 - Multi-select with Shift+Click
 - Bulk actions: Cage, Butcher, Geld
-- Assign custom names and tags (e.g., `[KEEP]`, `[BREED]`, `[CULL]`)
+- Assign custom names and tags (e.g., `[KEEP]`, `[BREED]`, `[WARDOG]`)
 
 ### Data Export
 - Export current species to CSV
