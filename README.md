@@ -105,8 +105,6 @@ gui/animal-breeder --detailed
 | `V` | Toggle vague/detailed mode |
 | `Esc` | Close |
 
-<img width="2382" height="949" alt="grafik" src="https://github.com/user-attachments/assets/5f0eb2d3-9aa7-4217-ba2d-f802debd06a4" />
-
 ## CSV Export Format
 
 ```csv
