@@ -14,6 +14,8 @@ The vanilla DF animal screen doesn't expose attributes or body size modifiers, m
 
 Also enables batch caging of animals for more animal friendly measures.
 
+Experiments done with this tool: https://www.reddit.com/r/dwarffortress/comments/1q6r98v/comment/nyfl3rr/?context=3
+
 ## Features
 
 ### Animal Stats Display
